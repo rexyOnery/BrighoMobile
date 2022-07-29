@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Brigho</string>
+    <string name="check_connection">Please check your Network Connection!</string>
+    <string name="went_wrong">Something Went Wrong!</string>
+    <string name="action_settings">none</string>
+    <string name="instructions">Place your fingertip on the Home button to verify your identity</string>
+    <string name="finger_print">finger print</string>
+    <string name="title_fingerprint">One-touch Sign In</string>
+    <string name="desc_fingerprint">Please confirm fingerprint to continue</string>
+    <string name="note">(Fingerprint sign in makes your app login much faster. Your device should have at least one fingerprint registered in device settings)</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="fingerprint_image">Fingerprint image</string>
+    <string name="timeout_message">Wait timeout. Requires login</string>
+</resources>
